@@ -10,7 +10,7 @@ API REST com o framework Spring Boot do Java controle de delivery
 
 - É necessario a instalação do banco de dados Firebird e mudar a url no 
 arquivo application.properties no atributo spring.datasource.url e colocar o caminho do banco.
-- O backup de banco pode ser encontrado: 
+- O backup de banco pode ser encontrado: https://github.com/DarcioF/delivery_api/tree/main/banco
 
 ## Routes
 
@@ -110,4 +110,4 @@ Todas as routes e documentação poderá ser encontradas na seguinte pagina:
 
 Se você utiliza o postman irá encontrar um backup de todos os request: 
 
-- http://localhost:8080
+- https://github.com/DarcioF/delivery_api/tree/main/postman
